@@ -90,6 +90,6 @@ Saves remain in the browser used to play. Clearing its site data removes saved p
 
 ## Credits
 
-Built with JavaScript and Phaser, with Vite for web builds and Electron for full-game desktop delivery. The project includes third-party music and sound effects and ChatGPT assistance.
+Built with JavaScript and Phaser, with Vite for web builds and Electron for full-game desktop delivery. The project includes third-party music and sound effects and AI assistance.
 
 Third-party assets retain their respective terms. This showcase does not grant a separate license to reuse the game's code, artwork, or audio.
