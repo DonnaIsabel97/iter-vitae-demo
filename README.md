@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Demo link coming soon</strong><br>
+  <strong>Demo link: https://iter-vitae-eight.vercel.app</strong><br>
   Desktop browser · Keyboard required · No installation
 </p>
 
