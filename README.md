@@ -5,7 +5,7 @@
 <h1 align="center">ITER VITAE — Playable Demo</h1>
 
 <p align="center">
-  A completed retro-inspired 2D platformer, with a four-level browser demo.
+  A completed retro-inspired 2D platformer, with a browser demo.
 </p>
 
 <p align="center">
@@ -23,20 +23,18 @@ This repository is the public project showcase. The source code is maintained pr
 
 ## What you can play
 
-The demo includes the **introductory video and all four levels of World 1**. It ends with a completion screen before the first boss encounter.
+The **demo** includes an introductory video and a playable introduction to ITER VITAE.
 
 - Explore a pixel-art world with collectibles, hidden rewards, and environmental hazards.
 - Experience the game's movement, enemies, and power-up systems.
 - Save progress locally through the game menus and return to it in the same browser.
 - Use the settings menu to review controls and toggle audio.
 
-The full game's bosses, later worlds, and later narrative sequences are outside the demo.
-
 ## Visual preview
 
-![World 1 pixel-art environment featuring campus buildings, trees, and pathways](media/world-1-environment.png)
+![Demo pixel-art environment featuring campus buildings, trees, and pathways](media/world-1-environment.png)
 
-*Environment artwork from World 1. Gameplay adds the player, enemies, platforms, collectibles, and HUD.*
+*Environment artwork from the demo. Gameplay adds the player, enemies, platforms, collectibles, and HUD.*
 
 ## Project at a glance
 
@@ -44,7 +42,7 @@ The full game's bosses, later worlds, and later narrative sequences are outside 
 | --- | --- |
 | Project status | Complete |
 | Genre | 2D platformer |
-| Public demo | Intro video and World 1's four levels, without the boss |
+| Public demo | Playable browser demo |
 | Full game | Seven worlds, 28 levels, seven boss encounters |
 | Visual style | Retro-inspired pixel art |
 | Demo platform | Desktop web browser |
